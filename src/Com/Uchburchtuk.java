@@ -1,6 +1,6 @@
 package Com;
 
-public class Com {
+public class Uchburchtuk {
     int a;
     int b;
     int c;
